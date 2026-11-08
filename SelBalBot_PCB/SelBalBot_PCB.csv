@@ -1,0 +1,6 @@
+Designator,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Exclude from Simulation,Exclude from Position Files,Link,Manufacturer Part Number or Seeed SKU
+"C1,C4",2,100n,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_SMD:C_0805_2012Metric,Capacitor_SMD:C_0805_2012Metric
+"C2,C3",2,10u,,,,,${EXCLUDE_FROM_POS_FILES},Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T,Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T
+"J1,J2",2,Conn_01x15_Socket,,,,,${EXCLUDE_FROM_POS_FILES},Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical
+J3,1,Conn_01x08_Socket,,,,,${EXCLUDE_FROM_POS_FILES},Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Horizontal
+U1,1,TB6612FNG,,,,,${EXCLUDE_FROM_POS_FILES},Package_SO:SSOP-24_5.3x8.2mm_P0.65mm,Package_SO:SSOP-24_5.3x8.2mm_P0.65mm
